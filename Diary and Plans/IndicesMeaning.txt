@@ -1,0 +1,7 @@
+﻿Germany 30 (DAX), with dividends, weighted by company shares, https://de.wikipedia.org/wiki/Kategorie:Unternehmen_im_DAX
+France 40, weighted by company shares, https://www.finanzen.net/index/cac_40/werte
+US 30 (Dow Jones), unweighted by company shares, some obscure divisor I do not understand yet, https://disfold.com/top-companies-us-dow/ 
+US Nasdaq 100, weighted by company shares, https://www.advfn.com/nasdaq/nasdaq.asp?companies=Z
+Gold 
+Platin 
+Oil
